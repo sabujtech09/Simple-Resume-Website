@@ -51,7 +51,7 @@ header{
 .search_bar{
 height: 40px;
 min-width: 200px;
-width: 30%;
+width: 25%;
 display: flex;
 align-items: center;
 }
@@ -140,4 +140,5 @@ border-radius: 4px 0 0 4px;
     color: #94969f;
     text-align: end;
     padding: 15px;
+
 }
